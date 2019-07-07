@@ -3,6 +3,5 @@ Uploaded on Google play Store(May 17,2018):  https://play.google.com/store/apps/
 
 
 * The app consists of a multiple choice Q&A
-* "mScore" variable keeps track of the user's score
 * If the incorrect answer is given, the user is alerted with a pop up window, "GAME OVER! Your Total Score is ____" and the option to RESTART the game or EXIT the app
 * Made in Android Studio

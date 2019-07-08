@@ -19,9 +19,9 @@ Uploaded on Google play Store(May 17,2018):  https://play.google.com/store/apps/
 ### Test Run on Galaxy s8
 
 *	
-![image](https://user-images.githubusercontent.com/52587103/60776143-d6a4c680-a0f7-11e9-84c4-79c49b7ed505.png)
+    ![image](https://user-images.githubusercontent.com/52587103/60776143-d6a4c680-a0f7-11e9-84c4-79c49b7ed505.png)
 
 
 *	
-![image](https://user-images.githubusercontent.com/52587103/60776147-dd333e00-a0f7-11e9-826c-6e3ae96800a9.png)
+    ![image](https://user-images.githubusercontent.com/52587103/60776147-dd333e00-a0f7-11e9-826c-6e3ae96800a9.png)
  

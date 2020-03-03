@@ -18,8 +18,8 @@ Uploaded on Google play Store(May 17,2018):  https://play.google.com/store/apps/
 
 ### Test Run on Galaxy s8 </br>
 
-<img src="https://user-images.githubusercontent.com/52587103/75737173-22326300-5ccd-11ea-93fd-a5c306796b04.jpg" alt="alt text" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/52587103/75737173-22326300-5ccd-11ea-93fd-a5c306796b04.jpg" alt="alt text" width="200" height="500">
 
-<img src="https://user-images.githubusercontent.com/52587103/75737179-252d5380-5ccd-11ea-80cb-b9eb25fb0d66.jpg" alt="alt text" width="500" height="250">
+<img src="https://user-images.githubusercontent.com/52587103/75737179-252d5380-5ccd-11ea-80cb-b9eb25fb0d66.jpg" alt="alt text" width="250" height="500">
 
-<img src="https://user-images.githubusercontent.com/52587103/75737183-265e8080-5ccd-11ea-9cf0-7b6923ad68e2.jpg" alt="alt text" width="500" height="200">
+<img src="https://user-images.githubusercontent.com/52587103/75737183-265e8080-5ccd-11ea-9cf0-7b6923ad68e2.jpg" alt="alt text" width="300" height="500">

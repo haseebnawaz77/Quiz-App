@@ -18,7 +18,8 @@
 
 ### Test Run on Galaxy s8 </br>
 
-<img src="https://user-images.githubusercontent.com/52587103/75737173-22326300-5ccd-11ea-93fd-a5c306796b04.jpg" alt="alt text" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/52587103/75739554-25c8e880-5cd3-11ea-9197-f43bf197dc79.jpg" width="300"
+ height="500">
 
 </br></br>
 

@@ -22,4 +22,4 @@ Uploaded on Google play Store(May 17,2018):  https://play.google.com/store/apps/
 ![image](https://user-images.githubusercontent.com/52587103/75737179-252d5380-5ccd-11ea-80cb-b9eb25fb0d66.jpg)
 ![image](https://user-images.githubusercontent.com/52587103/75737183-265e8080-5ccd-11ea-9cf0-7b6923ad68e2.jpg)
 
-<img src="https://user-images.githubusercontent.com/52587103/75737183-265e8080-5ccd-11ea-9cf0-7b6923ad68e2.jpg" alt="alt text" width="whatever" height="whatever">
+<img src="https://user-images.githubusercontent.com/52587103/75737183-265e8080-5ccd-11ea-9cf0-7b6923ad68e2.jpg" alt="alt text" width="200" height="200">
